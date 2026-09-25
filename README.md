@@ -13,8 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 | [1470-shuffle-the-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1470-shuffle-the-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

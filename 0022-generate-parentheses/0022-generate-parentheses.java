@@ -3,33 +3,43 @@ import java.util.*;
 class Solution {
 
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-        char[] path = new char[2 * n];
+        int count = catalan(n);
+        List<String> ans = new ArrayList<>(count);
 
-        backtrack(ans, path, 0, 0, 0, n);
+        char[] path = new char[2 * n];
+        dfs(ans, path, 0, 0, n);
 
         return ans;
     }
 
-    private void backtrack(List<String> ans, char[] path,
-                           int index, int open, int close, int n) {
+    private void dfs(List<String> ans, char[] path,
+                     int pos, int open, int n) {
 
-        // Complete valid combination
-        if (index == 2 * n) {
+        if (pos == path.length) {
             ans.add(new String(path));
             return;
         }
 
-        // Add '('
         if (open < n) {
-            path[index] = '(';
-            backtrack(ans, path, index + 1, open + 1, close, n);
+            path[pos] = '(';
+            dfs(ans, path, pos + 1, open + 1, n);
         }
 
-        // Add ')'
+        int close = pos - open;
+
         if (close < open) {
-            path[index] = ')';
-            backtrack(ans, path, index + 1, open, close + 1, n);
+            path[pos] = ')';
+            dfs(ans, path, pos + 1, open, n);
         }
+    }
+
+    private int catalan(int n) {
+        long c = 1;
+
+        for (int i = 0; i < n; i++) {
+            c = c * 2 * (2 * i + 1) / (i + 2);
+        }
+
+        return (int) c;
     }
 }

@@ -3,69 +3,82 @@ import java.util.*;
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
 
-        List<Integer> ans = new ArrayList<>();
+        List<Integer> result = new ArrayList<>();
 
         int wordLen = words[0].length();
         int wordCount = words.length;
         int totalLen = wordLen * wordCount;
 
-        if (totalLen > s.length()) {
-            return ans;
-        }
+        if (totalLen > s.length()) return result;
 
-        // Required frequency of each word
-        Map<String, Integer> target = new HashMap<>();
+        Map<String, Integer> need = new HashMap<>();
 
         for (String word : words) {
-            target.put(word, target.getOrDefault(word, 0) + 1);
+            need.merge(word, 1, Integer::sum);
         }
 
-        // Try every possible alignment
-        for (int offset = 0; offset < wordLen; offset++) {
+        for (int start = 0; start < wordLen; start++) {
 
-            int left = offset;
-            int right = offset;
+            int left = start;
+            int right = start;
             int count = 0;
 
-            Map<String, Integer> window = new HashMap<>();
+            Map<String, Integer> have = new HashMap<>();
 
             while (right + wordLen <= s.length()) {
 
                 String word = s.substring(right, right + wordLen);
                 right += wordLen;
 
-                // Word is not present in words
-                if (!target.containsKey(word)) {
-                    window.clear();
+                Integer required = need.get(word);
+
+                // Invalid word
+                if (required == null) {
+                    have.clear();
                     count = 0;
                     left = right;
                     continue;
                 }
 
-                // Add word to current window
-                window.put(word, window.getOrDefault(word, 0) + 1);
+                int current = have.getOrDefault(word, 0) + 1;
+                have.put(word, current);
                 count++;
 
-                // Too many occurrences of this word
-                while (window.get(word) > target.get(word)) {
+                // Too many occurrences
+                while (current > required) {
 
                     String leftWord = s.substring(left, left + wordLen);
 
-                    window.put(leftWord, window.get(leftWord) - 1);
+                    int newCount = have.get(leftWord) - 1;
+
+                    if (newCount == 0) {
+                        have.remove(leftWord);
+                    } else {
+                        have.put(leftWord, newCount);
+                    }
 
                     left += wordLen;
                     count--;
+
+                    if (leftWord.equals(word)) {
+                        current = newCount;
+                    }
                 }
 
-                // Found exactly wordCount words
+                // Found valid concatenation
                 if (count == wordCount) {
 
-                    ans.add(left);
+                    result.add(left);
 
-                    // Move left to search for overlapping answers
                     String leftWord = s.substring(left, left + wordLen);
 
-                    window.put(leftWord, window.get(leftWord) - 1);
+                    int newCount = have.get(leftWord) - 1;
+
+                    if (newCount == 0) {
+                        have.remove(leftWord);
+                    } else {
+                        have.put(leftWord, newCount);
+                    }
 
                     left += wordLen;
                     count--;
@@ -73,6 +86,6 @@ class Solution {
             }
         }
 
-        return ans;
+        return result;
     }
 }

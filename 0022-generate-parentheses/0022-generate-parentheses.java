@@ -1,42 +1,35 @@
 import java.util.*;
 
 class Solution {
+
     public List<String> generateParenthesis(int n) {
-        List<String> result = new ArrayList<>();
+        List<String> ans = new ArrayList<>();
+        char[] path = new char[2 * n];
 
-        backtrack(result, new StringBuilder(), 0, 0, n);
+        backtrack(ans, path, 0, 0, 0, n);
 
-        return result;
+        return ans;
     }
 
-    private void backtrack(List<String> result,
-                           StringBuilder current,
-                           int open,
-                           int close,
-                           int n) {
+    private void backtrack(List<String> ans, char[] path,
+                           int index, int open, int close, int n) {
 
-        // Base case
-        if (open == n && close == n) {
-            result.add(current.toString());
+        // Complete valid combination
+        if (index == 2 * n) {
+            ans.add(new String(path));
             return;
         }
 
-        // Add opening bracket
+        // Add '('
         if (open < n) {
-            current.append('(');
-
-            backtrack(result, current, open + 1, close, n);
-
-            current.deleteCharAt(current.length() - 1);
+            path[index] = '(';
+            backtrack(ans, path, index + 1, open + 1, close, n);
         }
 
-        // Add closing bracket
+        // Add ')'
         if (close < open) {
-            current.append(')');
-
-            backtrack(result, current, open, close + 1, n);
-
-            current.deleteCharAt(current.length() - 1);
+            path[index] = ')';
+            backtrack(ans, path, index + 1, open, close + 1, n);
         }
     }
 }

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 | [1470-shuffle-the-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1470-shuffle-the-array) |

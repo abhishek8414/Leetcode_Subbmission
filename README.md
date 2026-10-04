@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
+| [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1470-shuffle-the-array) |
 ## Algorithm X
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

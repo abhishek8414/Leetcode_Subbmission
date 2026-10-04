@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
+| [0485-max-consecutive-ones](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1470-shuffle-the-array) |
 ## Algorithm X
 |  |

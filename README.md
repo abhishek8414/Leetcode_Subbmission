@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1518-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0022-generate-parentheses) |
+| [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

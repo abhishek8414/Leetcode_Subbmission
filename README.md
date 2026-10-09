@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
 ## Recursion
 |  |

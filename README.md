@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0485-max-consecutive-ones) |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 | [1518-water-bottles](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1518-water-bottles) |
 ## Two Pointers

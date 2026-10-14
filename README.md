@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0044-wildcard-matching) |
 | [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0044-wildcard-matching) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->

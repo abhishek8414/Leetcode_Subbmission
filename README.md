@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1470-shuffle-the-array) |
 ## Algorithm X
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1518-water-bottles) |
 ## Dynamic Programming
@@ -95,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

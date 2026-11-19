@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/3364-minimum-positive-sum-subarray) |
 ## Algorithm X
 |  |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

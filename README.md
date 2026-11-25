@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
+| [0152-maximum-product-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0268-missing-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |

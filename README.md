@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0059-spiral-matrix-ii) |
 | [0189-rotate-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/3364-minimum-positive-sum-subarray) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhishek8414/Leetcode_Subbmission/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
